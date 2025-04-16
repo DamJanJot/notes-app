@@ -1,0 +1,8 @@
+# Sensitive config
+config.php
+
+# OS / IDE files
+.DS_Store
+*.log
+*.bak
+.env
