@@ -5,6 +5,7 @@ A simple web application for managing personal notes with drag-and-drop support.
 ## Features
 - Add, edit, and delete personal notes
 - Drag-and-drop positioning (AJAX-based)
+- Double-click to edit notes directly
 - User authentication (each note belongs to a specific user)
 - Responsive design
 
